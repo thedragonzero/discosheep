@@ -1,27 +1,23 @@
 name: DiscoSheep
 main: Goldsack.DiscoSheep.DiscoSheep
-version: 0.1
+version: 0.2
 author: Goldsack
 description: Gets sheeps into partymode
 commands:
   discosheep:
-    description: Gets sheeps into partymode
     usage: |
-           /<command> start to make all sheeps disco
-           /<command> stop to end it
-           /<command> party to give every player a party time! Untz Untz!
-           /<command> party [seconds] to set how long your party lasts
+           See /ds for more info on DiscoSheep
   discoparty:
-    description: Gets sheeps into partymode
     usage: |
-           /<command> start to make all sheeps disco
-           /<command> stop to end it
-           /<command> party to give every player a party time! Untz Untz!
-           /<command> party [seconds] to set how long your party lasts
+           See /ds for more info on DiscoSheep
+  disco:
+    usage: |
+           See /ds for more info on DiscoSheep
   ds:
     description: Gets sheeps into partymode
     usage: |
-           /<command> start to make all sheeps disco
-           /<command> stop to end it
+           /<command> color to toggle all sheeps going rainbowmode
            /<command> party to give every player a party time! Untz Untz!
-           /<command> party [seconds] to set how long your party lasts
+           /<command> party [name] [sec] [sheeps] to give a player a big party
+           /<command> party all [sec] [sheeps] to set how long a big party will last.
+           /<command> stop to end a party
