@@ -1,13 +1,12 @@
-#summary Foolish bugs i encounter.
+#summary Foolish bugs I encounter.
 
 = Introduction =
 
 I would like to create a new motto:
 
+{{{
 Problems are in stupid places. Be stupid to find problems.
-
-
-
+}}}
 This will be a list of those I can find
 
 {{{
@@ -18,6 +17,3 @@ else if(settingRaw.equalsIgnoreCase("false") || settingRaw.equalsIgnoreCase("0")
 	((BoolS) setting).setV(true);
 }
 }}}
-
-
-= Details =
