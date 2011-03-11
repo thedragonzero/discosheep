@@ -1,0 +1,19 @@
+name: ColorSheep
+main: Goldsack.ColorSheep.ColorSheep
+version: 0.1
+author: Goldsack
+description: Activated it sets sheeps to go into a colorphase
+commands:
+  colorwool:
+    usage: |
+           See /color for more info on DiscoSheep
+  wool:
+    usage: |
+           See /color for more info on DiscoSheep
+  colorsheep:
+    usage: |
+           See /color for more info on DiscoSheep
+  color:
+    description: Gets sheeps into partymode
+    usage: |
+           /<command> To absorb one item player is holding and paint sheeps around the player
