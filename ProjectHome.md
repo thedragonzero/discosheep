@@ -1,0 +1,1 @@
+This plugin iterates over all sheeps and swaps their wool color. It can also create small disco teams around players that auto turns off after a while.
